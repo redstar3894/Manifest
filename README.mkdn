@@ -30,5 +30,7 @@ Further documentation will be upcoming and will be added to each respective proj
 
 
 Current Project Contributors/Maintainers:
+
 Patrick J. Blair (redstar3894) - Project Lead
+
 Raymond Jay Golo [(intersectRaven)](https://github.com/intersectRaven)
