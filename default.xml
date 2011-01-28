@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="korg"
+	   fetch="git://android.git.kernel.org/"
+	   review="review.source.android.com" />
+
+  <remote  name="github"
+	   fetch="git://github.com/" />
+
+  <remote  name="gitorious"
+	   fetch="git://gitorious.org/" />
+
+  <default revision="master"
+	   remote="korg" />
+
+  <project path="benchmark" name="toolchain/benchmark" />
+  <project path="binutils" name="redstar3894/android-binutils" remote="github" />
+  <project path="build" name="redstar3894/android-toolchain-build" remote="github" />
+  <project path="cloog-ppl" name="redstar3894/android-cloog_ppl" remote="github" />
+  <project path="gcc/gcc-4.4.4" name="redstar3894/android-gcc" remote="github" />
+  <project path="gdb" name="toolchain/gdb" />
+  <project path="gmp" name="redstar3894/android-gmp" remote="github" />
+  <project path="mpc" name="toolchain/mpc" />
+  <project path="mpfr" name="redstar3894/android-mpfr" remote="github" />
+  <project path="ppl" name="redstar3894/android-ppl" remote="github" />
+
+</manifest>
