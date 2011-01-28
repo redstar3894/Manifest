@@ -13,7 +13,6 @@
   <default revision="master"
 	   remote="korg" />
 
-  <project path="benchmark" name="toolchain/benchmark" />
   <project path="binutils" name="redstar3894/android-binutils" remote="github" />
   <project path="build" name="redstar3894/android-toolchain-build" remote="github" />
   <project path="cloog-ppl" name="redstar3894/android-cloog_ppl" remote="github" />
