@@ -1,0 +1,34 @@
+Redstar "Helios" Android Toolchain
+==================================
+
+Introduction
+------------
+This project aims to build an optimized toolchain for compiling the Android kernel.
+
+It will be specifically targeted for the Google Nexus One (HTC Passion) and more specifically towards the Qualcomm Snapdragon QSD8x50 SoC / ARMv7 Scorpion CPU.
+
+
+Getting Started
+---------------
+
+To get started with the "Helios" toolchain, you'll need to get
+familiar with [Git and Repo](http://source.android.com/download/using-repo).
+
+To initialize your local repository using the build tree, use a command like this:
+
+    repo init -u git://github.com/redstar3894/Manifest.git
+
+Then to sync up:
+
+    repo sync
+
+
+Documentation and Organization
+------------------------------
+
+Further documentation will be upcoming and will be added to each respective project's wiki page on github as time permits.
+
+
+Current Project Contributors/Maintainers:
+Patrick J. Blair (redstar3894) - Project Lead
+Raymond Jay Golo [(intersectRaven)](https://github.com/intersectRaven)
