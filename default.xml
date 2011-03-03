@@ -22,5 +22,6 @@
   <project path="mpc" name="toolchain/mpc" />
   <project path="mpfr" name="redstar3894/android-mpfr" remote="github" />
   <project path="ppl" name="redstar3894/android-ppl" remote="github" />
+  <project path="sysroot" name="redstar3894/Android-Sysroot" remote="github" />
 
 </manifest>
