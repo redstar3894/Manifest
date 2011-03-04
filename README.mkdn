@@ -13,7 +13,7 @@ towards the Qualcomm Snapdragon QSD8x50 SoC / ARMv7 Scorpion CPU.
 Getting Started
 ---------------
 
-To get started with the "Helios" toolchain, you'll first need to get
+To get started with contributing to the "Helios" toolchain or building your own copy, you'll first need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the build tree, use a command like this:
