@@ -1,4 +1,4 @@
-Redstar "Helios" Android Toolchain
+intersectRedstar "Mjǫlnir" Android Toolchain
 ==================================
 
 Introduction
@@ -13,13 +13,13 @@ towards the Qualcomm Snapdragon QSD8x50 SoC / ARMv7 Scorpion CPU.
 Getting Started
 ---------------
 
-To get started with contributing to the "Helios" toolchain or building your own copy, you'll first need to get
+To get started with contributing to the "Mjǫlnir" toolchain or building your own copy, you'll first need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the build tree, use a command like this:
 
-    mkdir helios
-    cd helios
+    mkdir awesomeness
+    cd awesomeness
     repo init -u git://github.com/redstar3894/Manifest.git
 
 Then to sync up:
@@ -35,6 +35,6 @@ Further documentation will be upcoming and will be added to each respective proj
 
 __Current Project Contributors/Maintainers:__
 
-Patrick J. Blair (redstar3894) - _Project Lead_
+Patrick J. Blair (redstar3894) - (GCC, Sysroot, Build Dependencies)
 
-Raymond Jay Golo [(intersectRaven)](https://github.com/intersectRaven)
+Raymond Jay Golo [(intersectRaven)](https://github.com/intersectRaven) - (Binutils, Build System, Build Dependencies)
