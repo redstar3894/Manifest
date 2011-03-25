@@ -17,9 +17,10 @@
   <project path="build" name="redstar3894/android-toolchain-build" remote="github" />
   <project path="cloog-ppl" name="redstar3894/android-cloog_ppl" remote="github" />
   <project path="gcc/gcc-4.4.6" name="redstar3894/android-gcc" remote="github" />
+  <project path="gcc/gcc-4.6" name="redstar3894/android-gcc-4.6" remote="github" />
   <project path="gdb" name="toolchain/gdb" />
   <project path="gmp" name="redstar3894/android-gmp" remote="github" />
-  <project path="mpc" name="toolchain/mpc" />
+  <project path="mpc" name="redstar3894/android-mpc" remote="github" />
   <project path="mpfr" name="redstar3894/android-mpfr" remote="github" />
   <project path="ppl" name="redstar3894/android-ppl" remote="github" />
   <project path="sysroot" name="redstar3894/Android-Sysroot" remote="github" />
