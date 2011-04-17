@@ -9,6 +9,10 @@ It will be specifically targeted for the Google Nexus One _(HTC Passion)_ and mo
 specifically 
 towards the Qualcomm Snapdragon QSD8x50 SoC / ARMv7 Scorpion CPU.
 
+Important: __Please Read__
+-------------
+At the moment, this project/_(toolchain)_ is considered _HIGHLY_ experimental and is in no way a finished product.
+Documentation is incomplete and needs to be updated, please exercise caution in following any instructions you find here.
 
 Getting Started
 ---------------
@@ -33,8 +37,8 @@ Documentation and Organization
 Further documentation will be upcoming and will be added to each respective project's wiki page on github as time permits.
 
 
-__Current Project Contributors/Maintainers:__
+__Current Project Maintainers:__
 
-Patrick J. Blair (redstar3894) - (GCC, Sysroot, Build Dependencies)
+Patrick J. Blair [(@redstar3894)](https://github.com/redstar3894) - (GCC, Sysroot, Build Dependencies)
 
-Raymond Jay Golo [(intersectRaven)](https://github.com/intersectRaven) - (Binutils, Build System, Build Dependencies)
+Raymond Jay Golo [(@intersectRaven)](https://github.com/intersectRaven) - (Binutils, Build System, Build Dependencies)
