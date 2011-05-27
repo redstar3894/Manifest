@@ -46,6 +46,7 @@ GCC 4.6 Series
 
 
 __Current Project Maintainers:__
+--------------------------------
 
 Patrick J. Blair [(@redstar3894)](https://github.com/redstar3894) - (GCC, Sysroot, Build Dependencies)
 
