@@ -15,6 +15,7 @@
 
   <project path="binutils" name="redstar3894/android-binutils" remote="github" />
   <project path="build" name="redstar3894/android-toolchain-build" remote="github" />
+  <project path="cloog" name="redstar3894/android-cloog_isl" remote="github" />
   <project path="cloog-ppl" name="redstar3894/android-cloog_ppl" remote="github" />
   <project path="gcc/gcc-4.4.6" name="redstar3894/android-gcc" remote="github" />
   <project path="gcc/gcc-4.6.0" name="redstar3894/android-gcc-4.6" remote="github" />
