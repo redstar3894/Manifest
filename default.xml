@@ -10,10 +10,14 @@
   <remote  name="gitorious"
 	   fetch="git://gitorious.org/" />
 
+  <remote  name="binutils"
+	   fetch="git://sources.redhat.com/git/" />
+
   <default revision="master"
 	   remote="korg" />
 
   <project path="binutils" name="redstar3894/android-binutils" remote="github" />
+  <project path="binutils/binutils-master" name="binutils" remote="binutils" />
   <project path="build" name="redstar3894/android-toolchain-build" remote="github" />
   <project path="cloog" name="redstar3894/android-cloog_isl" remote="github" />
   <project path="cloog-ppl" name="redstar3894/android-cloog_ppl" remote="github" />
