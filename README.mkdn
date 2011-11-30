@@ -12,7 +12,7 @@ towards the Qualcomm Snapdragon QSD8x50 SoC / ARMv7 Scorpion CPU.
 That being said, it should be generally applicable to other ARM Cortex-Ax based SoCs (A8,A9...etc) as well.
 
 Important: __Please Read__
--------------
+===============
 At the moment, this project/_(toolchain)_ is considered _HIGHLY_ experimental and is in no way a finished product.
 Documentation is incomplete and needs to be updated, please exercise caution in following any instructions you find here.
 
