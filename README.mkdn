@@ -1,4 +1,4 @@
-intersectRedstar "Mjǫlnir" Android Toolchain
+intersectRedstar "Mjǫlnir" Android Toolchain ![Project status](http://stillmaintained.com/redstar3894/Manifest.png)
 ==================================
 
 Introduction
